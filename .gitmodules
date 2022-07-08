@@ -1,0 +1,4 @@
+[submodule "zlib-feedstock"]
+	path = zlib-feedstock
+	url = ../rampup-zlib
+	branch = master
